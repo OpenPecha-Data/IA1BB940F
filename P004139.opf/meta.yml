@@ -4,4 +4,19 @@ source_metadata:
   id: bdr:W28809
   title: གསུང་འབུམ། ངག་དབང་ཉི་མ
   author: ''
-  volumes: {}
+  volumes:
+    3c2a5e0a9cfa41f2963f625d2a43d2d1:
+      image_group_id: I4808
+      title: ''
+      volume_number: 1
+      total_pages: 726
+    4900770f8bda47408ec7e214d88fb04c:
+      image_group_id: I4809
+      title: ''
+      volume_number: 2
+      total_pages: 909
+    843d66d4333d400ba37d2e0581359eb8:
+      image_group_id: I4810
+      title: ''
+      volume_number: 3
+      total_pages: 764
